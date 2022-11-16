@@ -2,7 +2,7 @@ from selenium.common import TimeoutException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from Utilities import *
+from utulities.Utilities import *
 
 
 class CheckoutOverviewPage:
